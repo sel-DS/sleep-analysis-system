@@ -93,7 +93,7 @@ data/Sleep_health_and_lifestyle_dataset.csv
 
 ### 4. Run the notebook to generate models
 ```bash
-jupyter notebook proje_uyku_english.ipynb
+jupyter notebook project_sleep.ipynb
 ```
 > Running all cells will save 4 model files to the `models/` folder.
 

@@ -77,7 +77,7 @@ This project predicts whether an individual has **Insomnia**, **Sleep Apnea**, o
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sleep-analysis-system.git
+git clone https://github.com/sel-alp-ds/sleep-analysis-system.git
 cd sleep-analysis-system
 ```
 
@@ -112,4 +112,4 @@ streamlit run app.py
 
 ## 👤 Developer
 
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub:[@sel-alp-ds](https://github.com/sel-alp-ds)

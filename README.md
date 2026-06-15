@@ -112,4 +112,4 @@ streamlit run app.py
 
 ## 👤 Developer
 
-GitHub:[@sel-alp-ds](https://github.com/sel-DS)
+GitHub:[@sel-DS](https://github.com/sel-DS)
